@@ -6,9 +6,9 @@ The aim of LeQua 2022 is to allow the comparative evaluation of methods for ”*
   
 - **Task 1.b**: This task is concerned with evaluating *single-label multi-class quantifiers*, i.e., quantifiers that operate on documents that each belong to exactly one among a set of n>2 classes. Like in Task A, participants will be provided with training and test documents already converted in *vector form*.
   
-- **Task 2.a**: Like Task A, this task is concerned with evaluating *binary quantifiers*. Unlike in Task A, participants will be provided with the *raw text* of both training and test documents; the task is thus suitable for participants who also wish to engage in generating suitable representations for the textual documents, or to train end-to-end systems.
+- **Task 2.a**: Like Task 1.a, this task is concerned with evaluating *binary quantifiers*. Unlike in Task 1.a, participants will be provided with the *raw text* of both training and test documents; the task is thus suitable for participants who also wish to engage in generating suitable representations for the textual documents, or to train end-to-end systems.
   
-- **Task 2.b**: Like Task B, this task is concerned with evaluating *single-label multi-class quantifiers*; like in Task C, participants will be provided with the *raw text* of both training and test documents.
+- **Task 2.b**: Like Task 1.b, this task is concerned with evaluating *single-label multi-class quantifiers*; like in Task 2.a, participants will be provided with the *raw text* of both training and test documents.
     
     
     
