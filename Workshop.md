@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: null
 title: Workshop
 ---
-
 
 ## Workshop
 
