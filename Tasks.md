@@ -1,3 +1,9 @@
+---
+layout: page
+permalink: /tasks/
+title: Tasks
+---
+
 LeQua 2022 will offer four tasks:
 
 - **Task 1a**: This task is concerned with evaluating binary quantifiers, i.e., quantifiers that must only predict the relative frequencies of a class and its complement. Participants in this task will be provided with training and test documents already converted into vector form; the task is thus suitable for participants who do not wish to engage in generating suitable representations for the textual documents, but want instead to concentrate on optimizing the methods for learning to quantify.
