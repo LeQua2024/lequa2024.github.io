@@ -1,3 +1,9 @@
+---
+layout: default
+permalink: /evaluation/
+title: Evaluation
+---
+
 ## Evaluation 
 
 - **Formats of dataset and submissions**

@@ -1,3 +1,10 @@
+---
+layout: default
+permalink: /organizers/
+title: Organizers
+---
+
+
 ## Organizers
 
 - LeQua 2022 is organized by 

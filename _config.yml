@@ -1,1 +1,12 @@
-theme: jekyll-theme-slate
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+show_downloads: false
+github:
+  is_project_page: false
+  tasks: http://localhost:4000/tasks/
+  data: http://localhost:4000/data/
+  evaluation: http://localhost:4000/evaluation/
+  timeline: http://localhost:4000/timeline/
+  organizers: http://localhost:4000/organizers/
+

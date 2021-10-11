@@ -1,3 +1,9 @@
+---
+layout: default
+permalink: /timeline/
+title: Timeline
+---
+
 ## Timeline for participation (tentative)
 
 | **When** | **What** |
