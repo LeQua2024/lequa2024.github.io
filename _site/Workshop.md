@@ -1,5 +1,6 @@
 ---
-layout: null
+layout: page
+permalink: /workshop/
 title: Workshop
 ---
 
