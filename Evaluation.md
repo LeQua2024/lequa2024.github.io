@@ -4,7 +4,7 @@ permalink: /evaluation/
 title: Evaluation
 ---
 
-## Evaluation 
+## LeQua 2022: Evaluation 
 
 - **Formats of dataset and submissions**
   - 
