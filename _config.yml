@@ -11,3 +11,5 @@ github:
   workshop: /workshop/
   organizers: /organizers/
 
+
+theme: jekyll-theme-time-machine
