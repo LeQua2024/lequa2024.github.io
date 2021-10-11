@@ -8,5 +8,6 @@ github:
   data: http://localhost:4000/data/
   evaluation: http://localhost:4000/evaluation/
   timeline: http://localhost:4000/timeline/
+  workshop: http://localhost:4000/workshop/
   organizers: http://localhost:4000/organizers/
 
