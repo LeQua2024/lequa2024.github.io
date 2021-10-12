@@ -12,7 +12,7 @@ title: Organizers
   - Alejandro Moreo, ISTI-CNR, IT
   - Fabrizio Sebastiani, ISTI-CNR, IT
 
-  Contact them at *lequa2022* at *isti* dot *cnr* dot *it*
+  Contact them at *lequa2022chairs* at *isti* dot *cnr* dot *it*
   
   
 
