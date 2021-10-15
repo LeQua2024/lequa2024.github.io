@@ -6,7 +6,7 @@ title: Evaluation
 
 ## Evaluation 
 
-- **Formats of dataset and submissions**
+- **Required format for submissions**
   - A format checker and a dummy submission will be provided to participant teams
 - **Tools and baselines**
   - A number of baseline (and advanced) methods for learning to quantify are implemented in the [QuaPy](https://pypi.org/project/QuaPy/) Python-based, open-source library, which also contains implementations of standard evaluation measures and evaluation protocols. For participating in this lab you are welcome to use [QuaPy](https://pypi.org/project/QuaPy/) and its tools in any way you might deem suitable.
