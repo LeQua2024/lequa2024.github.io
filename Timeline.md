@@ -19,3 +19,5 @@ title: Timeline
 | 9 Jun 2022 | Participant teams submit paper for CLEF 2022 Working Notes |
 | 23 Jun 2022 | A/R notification for the above papers |
 | 30 Jun 2022 | Participant teams deliver camera-ready copies of accepted papers |
+
+All times are AoE
