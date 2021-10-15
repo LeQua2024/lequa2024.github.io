@@ -19,4 +19,4 @@ title: Organizers
 - The LeQua 2022 Steering Committee consists of
   - Juan José del Coz, University of Oviedo, ES
   - Preslav Nakov, QCRI-HBKU, QA
-  - Paolo Rosso, University of Valencia, ES
+  - Paolo Rosso, Technical University of Valencia, ES
