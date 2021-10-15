@@ -10,3 +10,5 @@ LeQua 2022 will offer two tasks (T1 and T2), each admitting two subtasks (A and 
 - **Task T1B**: This task is concerned with evaluating single-label multi-class quantifiers, i.e., quantifiers that operate on documents that each belong to exactly one among a set of n>2 classes. Like in Task T1A, participants will be provided with documents already converted in vector form.
 - **Task T2A**: Like Task T1A, this task is concerned with evaluating binary quantifiers. Unlike in Task T1A, participants will be provided with the raw text of the documents; the task is thus suitable for participants who also wish to engage in generating suitable representations for the textual documents, or to train end-to-end systems.
 - **Task T2B**: Like Task T1B, this task is concerned with evaluating single-label multi-class quantifiers; like in Task T2A, participants will be provided with the raw text of the documents.
+
+**For each task/subtask, participant teams are not supposed to use training data other than those provided for that subtask.** For instance, one is not supposed to use training data from T2A for participating in T1A.
