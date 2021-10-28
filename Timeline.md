@@ -6,7 +6,7 @@ title: Timeline
 
 ## Timeline for participation (tentative)
 
-| **When**   | **What** |
+| <img width=10/><img width=10/> **When**  <img width=10/><img width=10/> | **What** |
 |---|---|
 | ~~15 Oct 2021~~ | ~~Call for Participation distributed~~ | 
 | 5 Nov 2021 | LeQua 2022 presented at the [CIKM 2021 International Workshop on Learning to Quantify (LQ 2021)](https://cikmlq2021.github.io/) | 
