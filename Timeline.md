@@ -17,9 +17,9 @@ title: Timeline
 | 22 Apr 2022 | Release of unlabelled test set | 
 | 6 May 2022  | Deadline for submitting participant teams’ runs | 
 | 13 May 2022 | Release of evaluation results to all participant teams |
-| 27 May 2022 | Participant teams submit papers for CLEF 2022 Working Notes |
+| 27 May 2022 | Participant teams submit papers for CLEF 2022 Working Notes (optional) |
 | 13 Jun 2022 | A/R notification for the above papers |
-| 1 Jul 2022  | Participant teams deliver camera-ready copies of accepted papers |
-| 22 Jul 2022 | CLEF 2022 Working Notes Preview for Checking by Authors and Lab Organizers |
+| 1 Jul 2022  | Camera-ready copies of accepted papers delivered by authors |
+| 22 Jul 2022 | CLEF 2022 Working Notes preview for checking by authors and lab organizers |
 
 All dates are 23:59 AoE
