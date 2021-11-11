@@ -23,3 +23,5 @@ title: Timeline
 | 22 Jul 2022 | CLEF 2022 Working Notes preview for checking by authors and lab organizers |
 
 All dates are 23:59 AoE
+
+The authors of the more deserving papers of LeQua 2022 will be encouraged to prepare an extended version of their paper and submit it to the CLEF 2023 conference for possible presentation at the main conference and publication in the CLEF 2023 Proceedings, to be published by Springer Verlag. These papers will undergo the usual review process for the conference and will be accepted/rejected on the basis of their quality only.
