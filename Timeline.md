@@ -9,8 +9,8 @@ title: Timeline
 | <img width=10/><img width=10/> **When**  <img width=10/><img width=10/> | **What** |
 |---|---|
 | ~~15 Oct 2021~~ | ~~Call for Participation distributed~~ | 
-| 5 Nov 2021  | LeQua 2022 presented at the [CIKM 2021 International Workshop on Learning to Quantify (LQ 2021)](https://cikmlq2021.github.io/) | 
-| 15 Nov 2021 | Lab [registration](http://clef2022-labs-registration.dei.unipd.it/) opens | 
+| ~~5 Nov 2021~~  | ~~LeQua 2022 presented at the [CIKM 2021 International Workshop on Learning to Quantify (LQ 2021)](https://cikmlq2021.github.io/)~~ | 
+| ~~15 Nov 2021~~ | ~~Lab [registration](http://clef2022-labs-registration.dei.unipd.it/) opens~~ | 
 | 1 Dec 2021  | Release of training set + development set + format checker + evaluation script + dummy submission | 
 | 1 Dec 2021  | Discussion forum (GoogleGroups) opens among participant teams and organizers | 
 | 22 Apr 2022 | Lab registration closes | 
