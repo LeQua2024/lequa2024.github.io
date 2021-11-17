@@ -12,4 +12,7 @@ For a survey of research on learning to quantify up to 2017, see [Pablo Gonzále
 
 
 
+![ai4media-768x444](https://user-images.githubusercontent.com/92160733/142188325-90cc9258-a43e-47d6-ad68-a8fc2bb90526.png)
+![cropped-SoBigData-RI-768x257](https://user-images.githubusercontent.com/92160733/142188337-675041c8-29cf-4d32-a3bf-603fc8b7a787.png)
+
 LeQua 2022 is supported by the SoBigData++ project, funded by the European Commission (Grant 871042) under the H2020 Programme INFRAIA-2019-1, and by the AI4Media project, funded by the European Commission (Grant 951911) under the H2020 Programme ICT-48-2020. The organizers' opinions do not necessarily reflect those of the European Commission.
