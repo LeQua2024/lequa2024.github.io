@@ -10,6 +10,8 @@ If you are interested in research on learning to quantify, consider attending th
 
 For a survey of research on learning to quantify up to 2017, see [Pablo González, Alberto Castaño, Nitesh V. Chawla, Juan José del Coz: A Review on Quantification Learning. ACM Computing Surveys 50(5): 74:1-74:40 (2017)](https://dl.acm.org/doi/10.1145/3117807); for more recent work, check the forthcoming proceedings of [LQ 2021](https://cikmlq2021.github.io/).
 
+Register you and your team for participating to LeQua 2022 (and other CLEF 2022 labs too) on the [CLEF 2022 Lab registration page](https://clef2022-labs-registration.dei.unipd.it/).
+
 ![cropped-SoBigData-RI-768x257](https://user-images.githubusercontent.com/92160733/142188337-675041c8-29cf-4d32-a3bf-603fc8b7a787.png)
 
 ![ai4media-768x444](https://user-images.githubusercontent.com/92160733/142188325-90cc9258-a43e-47d6-ad68-a8fc2bb90526.png)
