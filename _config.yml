@@ -11,6 +11,6 @@ github:
   timeline: /timeline/
   workshop: /workshop/
   organizers: /organizers/
-
+  registrations: /registrations/
 
 theme: jekyll-theme-cayman
