@@ -21,6 +21,8 @@ For a survey of research on learning to quantify up to 2017, see [Pablo Gonzále
 
 Register you and your team for participating to LeQua 2022 (and other CLEF 2022 labs too) on the [CLEF 2022 Lab registration page](https://clef2022-labs-registration.dei.unipd.it/).
 
+Follow us on Twitter: [@LeQua2022](https://twitter.com/LeQua2022)
+
 ![cropped-SoBigData-RI-768x257](https://user-images.githubusercontent.com/92160733/142188337-675041c8-29cf-4d32-a3bf-603fc8b7a787.png)
 
 ![ai4media-768x444](https://user-images.githubusercontent.com/92160733/142188325-90cc9258-a43e-47d6-ad68-a8fc2bb90526.png)
