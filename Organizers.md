@@ -11,6 +11,7 @@ title: Organizers
   - Andrea Esuli, ISTI-CNR, IT
   - Alejandro Moreo, ISTI-CNR, IT
   - Fabrizio Sebastiani, ISTI-CNR, IT
+  - Gianluca Sperduti, ISTI-CNR, IT
 
   Contact them at *lequa2022chairs* at *isti* dot *cnr* dot *it*
   
