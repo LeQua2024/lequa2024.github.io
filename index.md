@@ -9,7 +9,7 @@ The aim of LeQua 2022 (the 1st edition of the CLEF “Learning to Quantify” la
 ## News!
 
 * 1st Dec 2021: The dataset (training and development sets) **is now public** and accessible via [Zenodo](https://www.doi.org/10.5281/zenodo.5734465)!
-* 1st Dec 2021: The `format checker`, the `evaluation script`, along with other useful functions and further guidelines, are public and accessible via [GitHub](https://github.com/HLT-ISTI/LeQua2022_scripts).
+* 1st Dec 2021: The [format checker](https://github.com/HLT-ISTI/LeQua2022_scripts/blob/main/format_checker.py) and [evaluation script](https://github.com/HLT-ISTI/LeQua2022_scripts/blob/main/evaluate.py), along with other [useful functions and further guidelines](https://github.com/HLT-ISTI/LeQua2022_scripts), are public and accessible via [GitHub](https://github.com/HLT-ISTI/LeQua2022_scripts).
 * 1st Dec 2021: The [Google discussion group](https://groups.google.com/g/lequa2022) has been created! If you plan to participate (and we very much hope so), visit [https://groups.google.com/g/lequa2022](https://groups.google.com/g/lequa2022) and request to become a member now!
 * 15 Nov 2021: [Registrations](http://clef2022-labs-registration.dei.unipd.it/) are open! (until 22 Apr 2022)
 
