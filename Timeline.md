@@ -13,8 +13,8 @@ title: Timeline
 | ~~15 Nov 2021~~ | ~~Lab [registration](http://clef2022-labs-registration.dei.unipd.it/) is open! (until 22 Apr 2022)~~ |
 | ~~1 Dec 2021~~  | ~~Release of [training set + development set + dummy submission](https://www.doi.org/10.5281/zenodo.5734465) + [format checker](https://github.com/HLT-ISTI/LeQua2022_scripts/blob/main/format_checker.py) + [evaluation script](https://github.com/HLT-ISTI/LeQua2022_scripts/blob/main/evaluate.py)~~ |
 | ~~1 Dec 2021~~  | ~~[Discussion forum (GoogleGroups)](https://groups.google.com/g/lequa2022) opens among participant teams and organizers~~ | 
+| ~~22 Apr 2022~~ | ~~Release of unlabelled [test set](https://doi.org/10.5281/zenodo.5734464)~~ | 
 | 22 Apr 2022 | Lab registration closes | 
-| 22 Apr 2022 | Release of unlabelled test set | 
 | 6 May 2022  | Deadline for submitting participant teams’ runs | 
 | 13 May 2022 | Release of evaluation results to all participant teams |
 | 27 May 2022 | Participant teams submit papers for CLEF 2022 Working Notes (optional) |
