@@ -4,7 +4,7 @@ layout: default
 
 # LeQua 2022: Learning to Quantify
 
-The aim of LeQua 2022 (the 1st edition of the CLEF “Learning to Quantify” lab) is to allow the comparative evaluation of methods for “learning to quantify” in textual datasets, i.e., methods for training predictors of the relative frequencies of the classes of interest in sets of unlabelled textual documents. These predictors (called “quantifiers”) will be required to issue predictions for several such sets, some of them characterized by class frequencies radically different from the ones of the training set. For a detailed description of this lab you are welcome to download the paper [Andrea Esuli, Alejandro Moreo, Fabrizio Sebastiani: LeQua@CLEF2022: Learning to Quantify. Proceedings of the 44th European Conference on Information Retrieval (ECIR 2022), Stavanger, NO. Forthcoming.](https://arxiv.org/abs/2111.11249).
+The aim of LeQua 2022 (the 1st edition of the CLEF “Learning to Quantify” lab) is to allow the comparative evaluation of methods for “learning to quantify” in textual datasets, i.e., methods for training predictors of the relative frequencies of the classes of interest in sets of unlabelled textual documents. These predictors (called “quantifiers”) will be required to issue predictions for several such sets, some of them characterized by class frequencies radically different from the ones of the training set. For a detailed description of this lab you are welcome to download the paper [Andrea Esuli, Alejandro Moreo, Fabrizio Sebastiani: LeQua@CLEF2022: Learning to Quantify. Proceedings of the 44th European Conference on Information Retrieval (ECIR 2022), Stavanger, NO, pp. 374-381](https://arxiv.org/abs/2111.11249).
 
 ## News!
 
