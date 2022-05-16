@@ -15,8 +15,8 @@ title: Timeline
 | ~~1 Dec 2021~~  | ~~[Discussion forum (GoogleGroups)](https://groups.google.com/g/lequa2022) opens among participant teams and organizers~~ | 
 | ~~22 Apr 2022~~ | ~~Release of unlabelled [test set](https://doi.org/10.5281/zenodo.5734464)~~ | 
 | ~~22 Apr 2022~~ | ~~Lab registration closes~~ | 
-| 11 May 2022  | Deadline (extended) for submitting participant teams’ runs | 
-| 13 May 2022 | Release of evaluation results to all participant teams |
+| ~~11 May 2022~~  | ~~Deadline (extended) for submitting participant teams’ runs~~ | 
+| ~~13 May 2022~~ | ~~Release of evaluation results to all participant teams~~ |
 | 27 May 2022 | Participant teams submit papers for CLEF 2022 Working Notes (optional) |
 | 13 Jun 2022 | A/R notification for the above papers |
 | 1 Jul 2022  | Camera-ready copies of accepted papers delivered by authors |
