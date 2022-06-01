@@ -7,7 +7,7 @@ layout: default
 The aim of LeQua 2022 (the 1st edition of the CLEF “Learning to Quantify” lab) is to allow the comparative evaluation of methods for “learning to quantify” in textual datasets, i.e., methods for training predictors of the relative frequencies of the classes of interest in sets of unlabelled (textual) documents. These predictors (called “quantifiers”) are required to issue predictions for several such sets, some of them characterized by class frequencies radically different from the ones of the training set. For a detailed description of this lab you are welcome to download the paper [Andrea Esuli, Alejandro Moreo, Fabrizio Sebastiani: LeQua@CLEF2022: Learning to Quantify. Proceedings of the 44th European Conference on Information Retrieval (ECIR 2022), Stavanger, NO, pp. 374-381](https://arxiv.org/abs/2111.11249).
 
 ## News!
-
+* 28 May 2022: We are delighted to announce that the LeQua 2022 session at CLEF 2022 in Bologna will host a keynote talk by George Forman (Amazon Research)
 * 11 May 2022: The submission period is now over; thanks to the teams who have submitted their runs! The test set (with labels) **is now public** and accessible via [Zenodo](https://doi.org/10.5281/zenodo.5734464)! 
 * 22 April 2022: The test set (with labels omitted) **is now public** and accessible via [Zenodo](https://doi.org/10.5281/zenodo.5734464)! You can now submit your results via [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/4134)!
 * 1st Dec 2021: The dataset (training and development sets) **is now public** and accessible via [Zenodo](https://www.doi.org/10.5281/zenodo.5734465)
