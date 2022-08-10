@@ -27,7 +27,7 @@ Wednesday, September 7
   
 <tr> <td> 17:50	</td> <td> 18:20	</td> <td> Discussion	</td></tr>
   
-<tr> <td> 18:20	</td> <td> 18:50	</td> <td> Keynote talk: George Forman (Amazon) (Title TBA)	</td></tr>
+<tr> <td> 18:20	</td> <td> 18:50	</td> <td> Keynote talk: George Forman (Amazon Research): Open Problems in Quantification Research	</td></tr>
 </table>
 
 {{< /rawhtml >}}
