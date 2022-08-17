@@ -21,7 +21,7 @@ title: Timeline
 | ~~13 Jun 2022~~ | ~~A/R notification for the above papers~~ |
 | ~~1 Jul 2022~~  | ~~Camera-ready copies of accepted papers delivered by authors~~ |
 | ~~22 Jul 2022~~ | ~~CLEF 2022 Working Notes preview for checking by authors and lab organizers~~ |
-| 7 Sep 2022 | LeQua 2022 sessions |
+| 7 Sep 2022 | LeQua sessions @ CLEF 2022 in Bologna |
 
 All dates are 23:59 AoE
 
