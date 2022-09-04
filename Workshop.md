@@ -6,7 +6,7 @@ title: Workshop
 
 ## Workshop
 
-The following is a preliminary program of the LeQua sessions at CLEF 2022.
+The following is the program of the LeQua sessions at CLEF 2022.
 
 Wednesday, September 7	
 
