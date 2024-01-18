@@ -9,9 +9,9 @@ The aim of LeQua 2024 (the 2nd edition of the “Learning to Quantify” data ch
 Register you and your team for participating to LeQua 2024 by filling this [form](https://forms.gle/1U8g9fP5qzzpF5TJ6). (Please fill one form per team. There may be more than one team per institution, but a person can be a member of one LeQua 2024 team only.)
 
 For a description of the [1st edition of this data challenge](https://lequa2022.github.io/), which took place in 2022, you are welcome to download one of the following papers:
-* Andrea Esuli, Alejandro Moreo, Fabrizio Sebastiani: [LeQua@CLEF2022: Learning to Quantify](https://link.springer.com/chapter/10.1007/978-3-030-99739-7_47). Proceedings of the 44th European Conference on Information Retrieval (ECIR 2022), Stavanger, NO, pp. 374-381: a concise description of the data challenge published before the submissions came in, and which thus focuses only on the setup of the data challenge and does not discuss the results and the submitting systems;
-* Andrea Esuli, Alejandro Moreo, Fabrizio Sebastiani, Gianluca Sperduti: [A Concise Overview of LeQua@CLEF 2022: Learning to Quantify](https://link.springer.com/chapter/10.1007/978-3-031-13643-6_23). Proceedings of the 13th Conference and Labs of the Evaluation Forum (CLEF 2022), Bologna, IT, pp. 362-381: as the one above, but published after the submissions came in, which means it also discusses the results and the submitting systems;
-* Andrea Esuli, Alejandro Moreo, Fabrizio Sebastiani, Gianluca Sperduti: [A Detailed Overview of LeQua@CLEF 2022: Learning to Quantify](https://ceur-ws.org/Vol-3180/paper-146.pdf). Working Notes of the 13th Conference and Labs of the Evaluation Forum (CLEF 2022), Bologna, IT, pp. 1849-1868: as the one above, but much more detailed.
+* Andrea Esuli, Alejandro Moreo, Fabrizio Sebastiani: [LeQua@CLEF2022: Learning to Quantify](https://link.springer.com/chapter/10.1007/978-3-030-99739-7_47). Proceedings of the 44th European Conference on Information Retrieval (ECIR 2022), Stavanger, NO, pp. 374-381. This is a concise description of the data challenge published before the submissions came in, and which thus focuses only on the setup of the data challenge and does not discuss the results and the submitting systems;
+* Andrea Esuli, Alejandro Moreo, Fabrizio Sebastiani, Gianluca Sperduti: [A Concise Overview of LeQua@CLEF 2022: Learning to Quantify](https://link.springer.com/chapter/10.1007/978-3-031-13643-6_23). Proceedings of the 13th Conference and Labs of the Evaluation Forum (CLEF 2022), Bologna, IT, pp. 362-381. This is as the one above, but published after the submissions came in, which means it also discusses the results and the submitting systems;
+* Andrea Esuli, Alejandro Moreo, Fabrizio Sebastiani, Gianluca Sperduti: [A Detailed Overview of LeQua@CLEF 2022: Learning to Quantify](https://ceur-ws.org/Vol-3180/paper-146.pdf). Working Notes of the 13th Conference and Labs of the Evaluation Forum (CLEF 2022), Bologna, IT, pp. 1849-1868. This is as the one above, but much more detailed.
 
 If you are interested in research on learning to quantify, you might want to check 
 * a [2023 book](https://link.springer.com/book/10.1007/978-3-031-20467-8) (published open-access by Springer Nature) on learning to quantify, by Andrea Esuli, Alessandro Fabris, Alejandro Moreo, and Fabrizio Sebastiani
@@ -21,6 +21,7 @@ If you are interested in research on learning to quantify, you might want to che
 * the [proceedings](http://tinyurl.com/2vf2z63z) of the [3rd International Workshop on Learning to Quantify (LQ 2023)](https://lq-2023.github.io/); 
 
 ## News!
+<!-- BEGIN COMMENTED BLOCK
 * 7 Aug 2022: The LeQua 2022 session at CLEF 2022 in Bologna, Italy will take place on Wednesday, September 7, from 15:30 to 18:50; all times are CEST.
 * 30 May 2022: We are delighted to announce that the LeQua 2022 session at CLEF 2022 in Bologna will host a keynote talk by [George Forman](https://scholar.google.com/citations?hl=en&user=r0a222QAAAAJ) (Amazon Research)
 * 28 May 2022: The submission period for participants' papers is now over; thanks to the teams who have submitted their papers! 
@@ -29,13 +30,18 @@ If you are interested in research on learning to quantify, you might want to che
 * 1st Dec 2021: The dataset (training and development sets) **is now public** and accessible via [Zenodo](https://www.doi.org/10.5281/zenodo.5734465)
 * 1st Dec 2021: The [format checker](https://github.com/HLT-ISTI/LeQua2022_scripts/blob/main/format_checker.py) and [evaluation script](https://github.com/HLT-ISTI/LeQua2022_scripts/blob/main/evaluate.py), along with other [useful functions and further guidelines](https://github.com/HLT-ISTI/LeQua2022_scripts), are public and accessible via [GitHub](https://github.com/HLT-ISTI/LeQua2022_scripts).
 * 1st Dec 2021: The [Google discussion group](https://groups.google.com/g/lequa2022) has been created! If you plan to participate (and we very much hope so), visit [https://groups.google.com/g/lequa2022](https://groups.google.com/g/lequa2022) and request to become a member now!
-* 15 Nov 2021: [Registrations](http://clef2022-labs-registration.dei.unipd.it/) are open! (until 22 Apr 2022)
+END COMMENTED BLOCK -->
+* 18 Jan 2024: [Registrations](https://forms.gle/1U8g9fP5qzzpF5TJ6) are open! (until 31 May 2024)
 
 
-Follow us on Twitter: [@LeQua2022](https://twitter.com/LeQua2022)
+Follow us on Twitter: [@LeQua2024](https://twitter.com/LeQua2024)
 
 ![cropped-SoBigData-RI-768x257](https://user-images.githubusercontent.com/92160733/142188337-675041c8-29cf-4d32-a3bf-603fc8b7a787.png)
 
 ![ai4media-768x444](https://user-images.githubusercontent.com/92160733/142188325-90cc9258-a43e-47d6-ad68-a8fc2bb90526.png)
 
-LeQua 2022 is supported by the SoBigData++ project, funded by the European Commission (Grant 871042) under the H2020 Programme INFRAIA-2019-1, and by the AI4Media project, funded by the European Commission (Grant 951911) under the H2020 Programme ICT-48-2020. The organizers' opinions do not necessarily reflect those of the European Commission.
+LeQua 2024 is supported 
+* by the SoBigData++ project, funded by the European Commission (Grant 871042) under the H2020 Programme INFRAIA-2019-1;
+* by the AI4Media project, funded by the European Commission (Grant 951911) under the H2020 Programme ICT-48-2020;
+* by the QuaDaSh project, funded by the European Commission under the NextGenerationEU funding scheme.
+The organizers' opinions do not necessarily reflect those of the European Commission.
