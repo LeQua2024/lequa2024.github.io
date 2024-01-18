@@ -4,13 +4,13 @@ permalink: /tasks/
 title: Tasks
 ---
 
-LeQua 2022 will offer two tasks (T1 and T2), each admitting two subtasks (A and B):
+LeQua 2024 will offer four tasks (T1 to T4). For each such task, participants will be provided with datapoints already coverted in vector form.
 
-- **Subtask T1A**: This task is concerned with evaluating binary quantifiers, i.e., quantifiers that must only predict the relative frequencies of a class and its complement. Participants in this task will be provided with documents already converted into vector form; the task is thus suitable for participants who do not wish to engage in generating  representations for the textual documents, but want instead to concentrate on optimizing the methods for learning to quantify.
-- **Subtask T1B**: This task is concerned with evaluating single-label multi-class quantifiers, i.e., quantifiers that operate on documents that each belong to exactly one among a set of n>2 classes. Like in Task T1A, participants will be provided with documents already converted in vector form.
-- **Subtask T2A**: Like Task T1A, this task is concerned with evaluating binary quantifiers. Unlike in Task T1A, participants will be provided with the raw text of the documents; the task is thus suitable for participants who also wish to engage in generating suitable representations for the textual documents, or to train end-to-end systems.
-- **Subtask T2B**: Like Task T1B, this task is concerned with evaluating single-label multi-class quantifiers; like in Task T2A, participants will be provided with the raw text of the documents.
+- **Task T1**: This task is concerned with evaluating binary quantifiers, i.e., quantifiers that must only predict the relative frequencies of a class and its complement; the data used are affected by prior probability shift (a.k.a. "label shift"). This is the same as Task T1A of LeQua 2022, although different datapoints will be used.
+- **Task T2**: This task is concerned with evaluating single-label multi-class quantifiers, i.e., quantifiers that operate on datapoints each belonging to exactly one among a set of n>2 classes; here too, the data used are affected by prior probability shift. This is the same as Task T1B of LeQua 2022, although different datapoints will be used.
+- **Task T3**: This task is concerned with evaluating ordinal quantifiers, i.e., quantifiers that operate on a set of n>2 totally ordered classes; here too, the data used are affected by prior probability shift. This task is new to LeQua 2024.
+- **Task T4**: Like Task T1, this task is concerned with evaluating binary quantifiers; unlike in Task T1, the data used are affected by covariate shift.
 
-**For each subtask in {T1A,T1B,T2A,T2B}, participant teams are not supposed to use (training / development / test) documents other than those provided for that subtask.** In particular, participants are not supposed to use any document from either T2A or T2B in order to solve either T1A or T1B.
+**For each task from T1 to T4, participant teams are not supposed to use (training / development / test) datapoints other than those provided for that subtask.**
 
-Register you and your team for participating in LeQua 2022 (and other CLEF 2022 labs too) on the [CLEF 2022 Lab registration page](https://clef2022-labs-registration.dei.unipd.it/); you can decide to participate in all four LeQua 2002 tasks or only in the ones you are most interested in.
+Register you and your team for participating to LeQua 2024 by filling this [form](https://forms.gle/1U8g9fP5qzzpF5TJ6); you may decide to participate in all four LeQua 2024 tasks or only in the ones you are most interested in.
