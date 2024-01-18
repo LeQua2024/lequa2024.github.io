@@ -8,7 +8,7 @@ title: Timeline
 
 |  **When** | **What** |
 |      ---:|:---|
-| 25 Jan 2024	| Call for Participation distributed |
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 25 Jan 2024	| Call for Participation distributed |
 | 25 Jan 2024	| Lab registration is open! |
 | 15 Feb 2024	| Release of training sets + development samples + dummy submission + format checker + evaluation script |
 | 15 Feb 2024	| Discussion forum (GoogleGroups) opens among participant teams and organizers |
