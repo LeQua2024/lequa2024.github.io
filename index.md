@@ -6,6 +6,9 @@ layout: default
 
 The aim of LeQua 2024 (the 2nd edition of the “Learning to Quantify” data challenge) is to allow the comparative evaluation of methods (based on supervised learning) for class prior estimation (a.k.a. "quantification", or “learning to quantify”) in unlabelled data, i.e., methods for training predictors of the relative frequencies of the classes in sets of unlabelled datapoints. These predictors (called “quantifiers”) are required to issue predictions for several such sets, some of them affected by "dataset shift" (i.e., showing characteristics radically different from the ones of the training set). 
 
+Register you and your team for participating to LeQua 2024 by filling this [form](https://forms.gle/3WFguFn5jXRy3iPA8).
+
+
 For a description of the [1st edition of this data challenge](https://lequa2022.github.io/), which took place in 2022, you are welcome to download one of the following papers:
 * [Andrea Esuli, Alejandro Moreo, Fabrizio Sebastiani: "LeQua@CLEF2022: Learning to Quantify". Proceedings of the 44th European Conference on Information Retrieval (ECIR 2022), Stavanger, NO, pp. 374-381](https://link.springer.com/chapter/10.1007/978-3-030-99739-7_47): a concise description of the data challenge published before the submissions came in, and which thus focuses only on the setup of the data challenge and does not discuss the results and the submitting systems;
 * [Andrea Esuli, Alejandro Moreo, Fabrizio Sebastiani, Gianluca Sperduti: "A Concise Overview of LeQua@CLEF 2022: Learning to Quantify". Proceedings of the 13th Conference and Labs of the Evaluation Forum (CLEF 2022), Bologna, IT, pp. 362-381](https://link.springer.com/chapter/10.1007/978-3-031-13643-6_23): as the one above, but published after the submissions came in, which means it also discusses the results and the submitting systems;
@@ -30,7 +33,6 @@ If you are interested in research on learning to quantify, you might want to che
 
 For a survey of research on learning to quantify up to 2017, see [Pablo González, Alberto Castaño, Nitesh V. Chawla, Juan José del Coz: A Review on Quantification Learning. ACM Computing Surveys 50(5): 74:1-74:40 (2017)](https://dl.acm.org/doi/10.1145/3117807); for more recent work, check the [proceedings](http://ceur-ws.org/Vol-3052/) of [LQ 2021](https://cikmlq2021.github.io/).
 
-Register you and your team for participating to LeQua 2022 (and other CLEF 2022 labs too) on the [CLEF 2022 Lab registration page](https://clef2022-labs-registration.dei.unipd.it/).
 
 Follow us on Twitter: [@LeQua2022](https://twitter.com/LeQua2022)
 
