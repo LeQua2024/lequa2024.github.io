@@ -4,7 +4,7 @@ permalink: /tasks/
 title: Tasks
 ---
 
-LeQua 2024 will offer four tasks (T1 to T4). For each such task, participants will be provided with datapoints already coverted in vector form.
+LeQua 2024 will offer four tasks (T1 to T4). For each such task, participants will be provided with datapoints already converted in vector form.
 
 - **Task T1**: This task is concerned with evaluating **binary** quantifiers, i.e., quantifiers that must only predict the relative frequencies of a class and its complement; the data used are affected by **prior probability shift** (a.k.a. "label shift"). This is the same as Task T1A of LeQua 2022, although different datapoints will be used.
 - **Task T2**: This task is concerned with evaluating **single-label multi-class** quantifiers, i.e., quantifiers that operate on datapoints each belonging to exactly one among a set of n>2 classes; here too, the data used are affected by **prior probability shift**. This is the same as Task T1B of LeQua 2022, although different datapoints will be used.
