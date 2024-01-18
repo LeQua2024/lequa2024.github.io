@@ -6,8 +6,9 @@ title: Workshop
 
 ## Workshop
 
-The following is the program of the LeQua sessions at CLEF 2022.
+In this page we will post (in the early summer of 2024) the program of the LeQua 2024 workshop, in which the results of the data challenge will be presented. The workshop will take place in September 2024 (the precise date is yet to be defined), and will be either in hybrid or in fully online format. Stay tuned for details.
 
+<!-- BEGIN COMMENTED BLOCK
 Wednesday, September 7	
 
 {{< rawhtml >}}
@@ -31,3 +32,6 @@ Wednesday, September 7
 </table>
 
 {{< /rawhtml >}}
+END COMMENTED BLOCK -->
+
+
