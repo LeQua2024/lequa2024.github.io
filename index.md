@@ -4,7 +4,14 @@ layout: default
 
 # LeQua 2024: Learning to Quantify
 
-The aim of LeQua 2024 (the 2nd edition of the “Learning to Quantify” lab) is to allow the comparative evaluation of methods for class prior estimation (a.k.a. "quantification", or “learning to quantify”) in unlabelled data, i.e., methods for training predictors of the relative frequencies of the classes in sets of unlabelled datapoints. These predictors (called “quantifiers”) are required to issue predictions for several such sets, some of them characterized by class frequencies radically different from the ones of the training set. For a detailed description of this lab you are welcome to download the paper [Andrea Esuli, Alejandro Moreo, Fabrizio Sebastiani: LeQua@CLEF2022: Learning to Quantify. Proceedings of the 44th European Conference on Information Retrieval (ECIR 2022), Stavanger, NO, pp. 374-381](https://arxiv.org/abs/2111.11249).
+The aim of LeQua 2024 (the 2nd edition of the “Learning to Quantify” data challenge) is to allow the comparative evaluation of methods (based on supervised learning) for class prior estimation (a.k.a. "quantification", or “learning to quantify”) in unlabelled data, i.e., methods for training predictors of the relative frequencies of the classes in sets of unlabelled datapoints. These predictors (called “quantifiers”) are required to issue predictions for several such sets, some of them affected by "dataset shift" (i.e., showing characteristics radically different from the ones of the training set). 
+
+For a description of the [1st edition of this data challenge](https://lequa2022.github.io/), which took place in 2022, you are welcome to download one of the following papers:
+* [Andrea Esuli, Alejandro Moreo, Fabrizio Sebastiani: "LeQua@CLEF2022: Learning to Quantify". Proceedings of the 44th European Conference on Information Retrieval (ECIR 2022), Stavanger, NO, pp. 374-381]([https://arxiv.org/abs/2111.11249](https://link.springer.com/chapter/10.1007/978-3-030-99739-7_47)): a concise description of the data challenge published before the submissions came in, and which thus does not discuss the results and the submitting systems;
+* [Andrea Esuli, Alejandro Moreo, Fabrizio Sebastiani, Gianluca Sperduti: "A Concise Overview of LeQua@CLEF 2022: Learning to Quantify". CLEF 2022: 362-381](https://link.springer.com/chapter/10.1007/978-3-031-13643-6_23): as the above, but published after the submissions came in, which means it also discusses the results and the submitting systems;
+* [Andrea Esuli, Alejandro Moreo, Fabrizio Sebastiani, Gianluca Sperduti: "A Detailed Overview of LeQua@CLEF 2022: Learning to Quantify". CLEF (Working Notes) 2022: 1849-1868](https://ceur-ws.org/Vol-3180/paper-146.pdf): as the above, but much more detailed.
+
+
 
 ## News!
 * 7 Aug 2022: The LeQua 2022 session at CLEF 2022 in Bologna, Italy will take place on Wednesday, September 7, from 15:30 to 18:50; all times are CEST.
