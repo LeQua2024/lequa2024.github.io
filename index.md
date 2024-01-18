@@ -39,12 +39,16 @@ END COMMENTED BLOCK -->
 Follow us on Twitter: [@LeQua2024](https://twitter.com/LeQua2024)
 END COMMENTED BLOCK -->
 
-![cropped-SoBigData-RI-768x257](https://user-images.githubusercontent.com/92160733/142188337-675041c8-29cf-4d32-a3bf-603fc8b7a787.png)
-
-![ai4media-768x444](https://user-images.githubusercontent.com/92160733/142188325-90cc9258-a43e-47d6-ad68-a8fc2bb90526.png)
-
 LeQua 2024 is supported 
 * by the SoBigData++ project, funded by the European Commission (Grant 871042) under the H2020 Programme INFRAIA-2019-1;
 * by the AI4Media project, funded by the European Commission (Grant 951911) under the H2020 Programme ICT-48-2020;
 * by the QuaDaSh project, funded by the European Commission under the NextGenerationEU funding scheme.
 The organizers' opinions do not necessarily reflect those of the European Commission.
+
+<img src="[drawing.jpg](https://user-images.githubusercontent.com/92160733/142188337-675041c8-29cf-4d32-a3bf-603fc8b7a787.png)" alt="drawing" width="200"/>
+<img src="[drawing.jpg](https://user-images.githubusercontent.com/92160733/142188325-90cc9258-a43e-47d6-ad68-a8fc2bb90526.png)" alt="drawing" width="200"/>
+
+<!-- BEGIN COMMENTED BLOCK
+![cropped-SoBigData-RI-768x257](https://user-images.githubusercontent.com/92160733/142188337-675041c8-29cf-4d32-a3bf-603fc8b7a787.png)
+![ai4media-768x444](https://user-images.githubusercontent.com/92160733/142188325-90cc9258-a43e-47d6-ad68-a8fc2bb90526.png)
+END COMMENTED BLOCK -->
