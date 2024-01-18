@@ -7,7 +7,7 @@ title: Timeline
 ## Timeline for participation (tentative)
 
 |  **When** | **What** |
-|---:|:---|
+|      ---:|:---|
 | 25 Jan 2024	| Call for Participation distributed |
 | 25 Jan 2024	| Lab registration is open! |
 | 15 Feb 2024	| Release of training sets + development samples + dummy submission + format checker + evaluation script |
