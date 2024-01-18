@@ -6,7 +6,7 @@ title: Timeline
 
 ## Timeline for participation (tentative)
 
-| <img width=10/><img width=10/> **When** <img width=10/><img width=10/> | **What** |
+|  **When** | **What** |
 |---:|:---|
 | 25 Jan 2024	| Call for Participation distributed |
 | 25 Jan 2024	| Lab registration is open! |
