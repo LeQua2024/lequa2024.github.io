@@ -8,13 +8,17 @@ The aim of LeQua 2024 (the 2nd edition of the “Learning to Quantify” data ch
 
 Register you and your team for participating to LeQua 2024 by filling this [form](https://forms.gle/1U8g9fP5qzzpF5TJ6). (Please fill one form per team. There may be more than one team per institution, but a person can be a member of one LeQua 2024 team only.)
 
-
 For a description of the [1st edition of this data challenge](https://lequa2022.github.io/), which took place in 2022, you are welcome to download one of the following papers:
 * [Andrea Esuli, Alejandro Moreo, Fabrizio Sebastiani: "LeQua@CLEF2022: Learning to Quantify". Proceedings of the 44th European Conference on Information Retrieval (ECIR 2022), Stavanger, NO, pp. 374-381](https://link.springer.com/chapter/10.1007/978-3-030-99739-7_47): a concise description of the data challenge published before the submissions came in, and which thus focuses only on the setup of the data challenge and does not discuss the results and the submitting systems;
 * [Andrea Esuli, Alejandro Moreo, Fabrizio Sebastiani, Gianluca Sperduti: "A Concise Overview of LeQua@CLEF 2022: Learning to Quantify". Proceedings of the 13th Conference and Labs of the Evaluation Forum (CLEF 2022), Bologna, IT, pp. 362-381](https://link.springer.com/chapter/10.1007/978-3-031-13643-6_23): as the one above, but published after the submissions came in, which means it also discusses the results and the submitting systems;
 * [Andrea Esuli, Alejandro Moreo, Fabrizio Sebastiani, Gianluca Sperduti: "A Detailed Overview of LeQua@CLEF 2022: Learning to Quantify". Working Notes of the 13th Conference and Labs of the Evaluation Forum (CLEF 2022), Bologna, IT, pp. 1849-1868](https://ceur-ws.org/Vol-3180/paper-146.pdf): as the one above, but much more detailed.
 
-
+If you are interested in research on learning to quantify, you might want to check 
+* a [2023 book (published open-access by Springer Nature) on learning to quantify, by Andrea Esuli, Alessandro Fabris, Alejandro Moreo, and Fabrizio Sebastiani](https://link.springer.com/book/10.1007/978-3-031-20467-8)
+* a [2017 survey of research on learning to quantify, by Pablo González, Alberto Castaño, Nitesh V. Chawla, and Juan José del Coz, published on ACM Computing Surveys](https://dl.acm.org/doi/10.1145/3117807);
+* the [proceedings](http://ceur-ws.org/Vol-3052/) of the [1st International Workshop on Learning to Quantify (LQ 2021)](https://cikmlq2021.github.io/); a report of that workshop has also been published as [Juan José del Coz, Pablo González, Alejandro Moreo, and Fabrizio Sebastiani.  Report on the 1st International Workshop on Learning to Quantify (LQ 2021). SIGKDD Explorations 24(1):49--51, 2022.](http://kdd.org/exploration_files/vol24issue1_4._Report_on_the_1st_International_Workshop_on_Learning_to_Quantify_%28LQ_2021%29.pdf)
+* the [proceedings](https://lq-2022.github.io/proceedings/CompleteVolume.pdf) of the [2nd International Workshop on Learning to Quantify (LQ 2022)](https://lq-2022.github.io/); 
+* the [proceedings](http://tinyurl.com/2vf2z63z) of the [3rd International Workshop on Learning to Quantify (LQ 2023)](https://lq-2023.github.io/); 
 
 ## News!
 * 7 Aug 2022: The LeQua 2022 session at CLEF 2022 in Bologna, Italy will take place on Wednesday, September 7, from 15:30 to 18:50; all times are CEST.
@@ -26,12 +30,6 @@ For a description of the [1st edition of this data challenge](https://lequa2022.
 * 1st Dec 2021: The [format checker](https://github.com/HLT-ISTI/LeQua2022_scripts/blob/main/format_checker.py) and [evaluation script](https://github.com/HLT-ISTI/LeQua2022_scripts/blob/main/evaluate.py), along with other [useful functions and further guidelines](https://github.com/HLT-ISTI/LeQua2022_scripts), are public and accessible via [GitHub](https://github.com/HLT-ISTI/LeQua2022_scripts).
 * 1st Dec 2021: The [Google discussion group](https://groups.google.com/g/lequa2022) has been created! If you plan to participate (and we very much hope so), visit [https://groups.google.com/g/lequa2022](https://groups.google.com/g/lequa2022) and request to become a member now!
 * 15 Nov 2021: [Registrations](http://clef2022-labs-registration.dei.unipd.it/) are open! (until 22 Apr 2022)
-
-## Useful links
-
-If you are interested in research on learning to quantify, you might want to check the [proceedings](http://ceur-ws.org/Vol-3052/) of the [1st International Workshop on Learning to Quantify (LQ 2021)](https://cikmlq2021.github.io/), which took place on November 1 and November 5, 2021. A report of that workshop has also been published as [Juan José del Coz, Pablo González, Alejandro Moreo, and Fabrizio Sebastiani.  Report on the 1st International Workshop on Learning to Quantify (LQ 2021). SIGKDD Explorations 24(1):49--51, 2022.](http://kdd.org/exploration_files/vol24issue1_4._Report_on_the_1st_International_Workshop_on_Learning_to_Quantify_%28LQ_2021%29.pdf)
-
-For a survey of research on learning to quantify up to 2017, see [Pablo González, Alberto Castaño, Nitesh V. Chawla, Juan José del Coz: A Review on Quantification Learning. ACM Computing Surveys 50(5): 74:1-74:40 (2017)](https://dl.acm.org/doi/10.1145/3117807); for more recent work, check the [proceedings](http://ceur-ws.org/Vol-3052/) of [LQ 2021](https://cikmlq2021.github.io/).
 
 
 Follow us on Twitter: [@LeQua2022](https://twitter.com/LeQua2022)
