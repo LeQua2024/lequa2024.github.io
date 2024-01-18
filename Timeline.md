@@ -8,7 +8,7 @@ title: Timeline
 
 |  **When** | **What** |
 | ---:|:---|
-| <img width=200/> | <img width=500/> | 
+| <img width=150/> | <img width=550/> | 
 | 25 Jan 2024	| Call for Participation distributed |
 | 25 Jan 2024	| Lab registration is open! |
 | 15 Feb 2024	| Release of training sets + development samples + dummy submission + format checker + evaluation script |
