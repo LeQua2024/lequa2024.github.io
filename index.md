@@ -18,7 +18,9 @@ If you are interested in research on learning to quantify, you might want to che
 * a [2017 survey](https://dl.acm.org/doi/10.1145/3117807) of research on learning to quantify, by Pablo González, Alberto Castaño, Nitesh V. Chawla, and Juan José del Coz, published on ACM Computing Surveys;
 * the [proceedings](http://ceur-ws.org/Vol-3052/) of the [1st International Workshop on Learning to Quantify (LQ 2021)](https://cikmlq2021.github.io/); a report of that workshop has also been published as [Juan José del Coz, Pablo González, Alejandro Moreo, and Fabrizio Sebastiani.  Report on the 1st International Workshop on Learning to Quantify (LQ 2021). SIGKDD Explorations 24(1):49--51, 2022.](http://kdd.org/exploration_files/vol24issue1_4._Report_on_the_1st_International_Workshop_on_Learning_to_Quantify_%28LQ_2021%29.pdf)
 * the [proceedings](https://lq-2022.github.io/proceedings/CompleteVolume.pdf) of the [2nd International Workshop on Learning to Quantify (LQ 2022)](https://lq-2022.github.io/); 
-* the [proceedings](http://tinyurl.com/2vf2z63z) of the [3rd International Workshop on Learning to Quantify (LQ 2023)](https://lq-2023.github.io/); 
+* the [proceedings](http://tinyurl.com/2vf2z63z) of the [3rd International Workshop on Learning to Quantify (LQ 2023)](https://lq-2023.github.io/);
+* [4 videorecordings, 90 mins each](https://www.youtube.com/channel/UCq-2Htqn57uXjtwzy6PJ1pA), of a 2023 course on learning to quantify (including lectures + a hands-on session) delivered by Alejandro Moreo and Fabrizio Sebastiani;
+* the [QuaPy](https://github.com/HLT-ISTI/QuaPy) open-source Python library for learning to quantify.
 
 ## News!
 <!-- BEGIN COMMENTED BLOCK
@@ -33,8 +35,9 @@ If you are interested in research on learning to quantify, you might want to che
 END COMMENTED BLOCK -->
 * 18 Jan 2024: [Registrations](https://forms.gle/1U8g9fP5qzzpF5TJ6) are open! (until 31 May 2024)
 
-
+<!-- BEGIN COMMENTED BLOCK
 Follow us on Twitter: [@LeQua2024](https://twitter.com/LeQua2024)
+END COMMENTED BLOCK -->
 
 ![cropped-SoBigData-RI-768x257](https://user-images.githubusercontent.com/92160733/142188337-675041c8-29cf-4d32-a3bf-603fc8b7a787.png)
 
