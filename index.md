@@ -20,7 +20,7 @@ If you are interested in research on learning to quantify, you might want to che
 * the [proceedings](https://lq-2022.github.io/proceedings/CompleteVolume.pdf) of the [2nd International Workshop on Learning to Quantify (LQ 2022)](https://lq-2022.github.io/); 
 * the [proceedings](http://tinyurl.com/2vf2z63z) of the [3rd International Workshop on Learning to Quantify (LQ 2023)](https://lq-2023.github.io/);
 * [4 videorecordings, 90 mins each](https://www.youtube.com/channel/UCq-2Htqn57uXjtwzy6PJ1pA), of a 2023 course on learning to quantify (including lectures + a hands-on session) delivered by Alejandro Moreo and Fabrizio Sebastiani;
-* the [QuaPy](https://github.com/HLT-ISTI/QuaPy) open-source Python library for learning to quantify.
+* the [QuaPy](https://github.com/HLT-ISTI/QuaPy) open-source Python library for learning to quantify. Check paper [Alejandro Moreo, Andrea Esuli, and Fabrizio Sebastiani. QuaPy: A Python-based framework for quantification. Proceedings of the 30th ACM International Conference on Knowledge Management (CIKM 2021), Gold Coast, AU, pp. 4534–4543.](https://dl.acm.org/doi/10.1145/3459637.3482015) to learn more about QuaPy.
 
 ## News!
 <!-- BEGIN COMMENTED BLOCK
