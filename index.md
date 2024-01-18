@@ -6,7 +6,7 @@ layout: default
 
 The aim of LeQua 2024 (the 2nd edition of the “Learning to Quantify” data challenge) is to allow the comparative evaluation of methods (based on supervised learning) for class prior estimation (a.k.a. "quantification", or “learning to quantify”) in unlabelled data, i.e., methods for training predictors of the relative frequencies of the classes in sets of unlabelled datapoints. These predictors (called “quantifiers”) are required to issue predictions for several such sets, some of them affected by "dataset shift" (i.e., showing characteristics radically different from the ones of the training set). 
 
-Register you and your team for participating to LeQua 2024 by filling this [form](https://forms.gle/3WFguFn5jXRy3iPA8).
+Register you and your team for participating to LeQua 2024 by filling this [form](https://forms.gle/3WFguFn5jXRy3iPA8). (Please fill one form per team. There may be more than one team per institution, but a person can be a member of one LeQua 2024 team only.)
 
 
 For a description of the [1st edition of this data challenge](https://lequa2022.github.io/), which took place in 2022, you are welcome to download one of the following papers:
