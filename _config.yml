@@ -8,9 +8,11 @@ github:
   tasks: /tasks/
   data: /data/
   evaluation: /evaluation/
+  resources: /resources/
   timeline: /timeline/
   workshop: /workshop/
   organizers: /organizers/
-  registrations: /registrations/
+  registration: /registration/
+  acknowledgements: /acknowledgments/
 
 theme: jekyll-theme-cayman
