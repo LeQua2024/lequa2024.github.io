@@ -4,7 +4,7 @@ permalink: /registrations/
 title: Registrations
 ---
 
-## Registrations 
+## Registration 
 
 Registrations for the LeQua 20224 challenge are open!, and will be kept open until 31 May 2024. In order to register your team please click [here](https://forms.gle/1U8g9fP5qzzpF5TJ6); registered teams will receive the training sets, the development samples, a dummy submission, a format checker, and the evaluation script.
 
