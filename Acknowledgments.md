@@ -12,6 +12,8 @@ LeQua 2024 is supported
 The organizers' opinions do not necessarily reflect those of the European Commission.
 
 ![SoBigData](https://github.com/LeQua2024/lequa2024.github.io/blob/main/SoBigData.png)
-![AI4Media](https://github.com/LeQua2024/lequa2024.github.io/blob/main/AI4Media.png)
+
+![AI4Media](AI4Media.png)
+
 ![NextGenerationEU](https://github.com/LeQua2024/lequa2024.github.io/blob/main/IT%20Finanziato%20dall'Unione%20europea_BLUE_GREY.png)
 
