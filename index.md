@@ -50,6 +50,8 @@ LeQua 2024 is supported
 The organizers' opinions do not necessarily reflect those of the European Commission.
 
 <img src="SoBigData.png" alt="drawing" style="height: 5vw"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="AI4Media.png" alt="drawing" style="height: 5vw"/>
+<img src="IT Finanziato dall'Unione europea_BLUE_GREY.png" alt="drawing" style="height: 5vw"/>
+
 
 <!-- BEGIN COMMENTED BLOCK
 ![cropped-SoBigData-RI-768x257](https://user-images.githubusercontent.com/92160733/142188337-675041c8-29cf-4d32-a3bf-603fc8b7a787.png)
