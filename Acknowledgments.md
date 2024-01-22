@@ -11,7 +11,7 @@ LeQua 2024 is supported
 * by the QuaDaSh project, funded by the European Commission under the NextGenerationEU funding scheme.
 The organizers' opinions do not necessarily reflect those of the European Commission.
 
-![SoBigData](https://github.com/LeQua2024/lequa2024.github.io/blob/main/SoBigData.png)
+![SoBigData](SoBigData.png)
 
 ![AI4Media](AI4Media.png)
 
