@@ -50,7 +50,7 @@ LeQua 2024 is supported
 The organizers' opinions do not necessarily reflect those of the European Commission.
 
 <img src="SoBigData.png" alt="drawing" style="height: 5vw"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="AI4Media.png" alt="drawing" style="height: 5vw"/>
-<img src="IT Finanziato dall'Unione europea_BLUE_GREY.png" alt="drawing" style="height: 5vw"/>
+<img src="NextGenEU.png" alt="drawing" style="height: 5vw"/>
 
 
 <!-- BEGIN COMMENTED BLOCK
