@@ -15,5 +15,5 @@ The organizers' opinions do not necessarily reflect those of the European Commis
 
 ![AI4Media](AI4Media.png)
 
-![NextGenerationEU](https://github.com/LeQua2024/lequa2024.github.io/blob/main/IT%20Finanziato%20dall'Unione%20europea_BLUE_GREY.png)
+![NextGenerationEU](NextGenEU.png)
 
