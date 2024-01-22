@@ -1,7 +1,7 @@
 ---
 layout: default
-permalink: /registrations/
-title: Registrations
+permalink: /registration/
+title: Registration
 ---
 
 ## Registration 
