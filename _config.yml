@@ -13,6 +13,6 @@ github:
   workshop: /workshop/
   organizers: /organizers/
   registration: /registration/
-  acknowledgements: /acknowledgments/
+  acknowledgments: /acknowledgments/
 
 theme: jekyll-theme-cayman
