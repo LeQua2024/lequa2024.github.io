@@ -12,7 +12,7 @@ The organizers' opinions do not necessarily reflect those of the European Commis
 
 <br /> <br /> 
 
-![SoBigData](https://github.com/LeQua2024/lequa2024.github.io/blob/main/SoBigData.png)
 ![SoBigData](SoBigData.png)
+![SoBigData](AI4Media.png)
 ![AI4Media](nextgeneu_en-1024x306.jpg)
 
