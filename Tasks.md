@@ -13,4 +13,4 @@ LeQua 2024 will offer four tasks (T1 to T4). For each such task, participants wi
 
 **For each task from T1 to T4, participant teams are not supposed to use (training / development / test) data other than those provided for that subtask.**
 
-Register your team for participating in LeQua 2024 by filling [this form](https://forms.gle/1U8g9fP5qzzpF5TJ6); you may decide to participate in all four LeQua 2024 tasks or only in the ones you are most interested in.
+Register your team for participating in LeQua 2024 by filling [this form](https://forms.gle/1U8g9fP5qzzpF5TJ6). You may decide to participate in all four LeQua 2024 tasks or only in the ones you are most interested in. Please fill one form per team. There may be more than one team per institution, but a person can be a member of one LeQua 2024 team only.
