@@ -6,7 +6,7 @@ title: Workshop
 
 ## Workshop
 
-In this page we will post (in the early summer of 2024) the program of the LeQua 2024 workshop, in which the results of the data challenge will be presented. The workshop will take place in September 2024 (the precise date is yet to be defined), and will be either in hybrid or in fully online format. Stay tuned for details.
+In this page we will post (in the early summer of 2024) the program of the LeQua 2024 workshop, in which the results of the data challenge will be presented. The workshop will take place in September 2024 (the precise date is yet to be defined), and will be either in hybrid or in fully online format. The participation in the workshop will be open to all members of all participating teams, and to the scientific community at large. Stay tuned for details!
 
 <!-- BEGIN COMMENTED BLOCK
 Wednesday, September 7	
