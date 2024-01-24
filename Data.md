@@ -12,7 +12,7 @@ END COMMENTED BLOCK -->
 
 The data on which the tested systems are required to operate consist of product reviews from the Amazon website, already converted in vector form. 
 
-* In Tasks T1 and T4 the class label of each review is a sentiment-based polarity ("Positive" or "Negative", with "Positive" standing for all reviews marked "4 stars" or higher and "Negative" standing for all reviews marked "2 stars" or lower).
+* In Tasks T1 and T4 (both binary tasks) the class label of each review is a binary sentiment-based polarity ("Positive" or "Negative", with "Positive" standing for all reviews marked "4 stars" or higher and "Negative" standing for all reviews marked "2 stars" or lower).
 
 * In Task T2 the class label of each review is the merchandise class (“Automotive”, “Baby”, "Beauty", ...) to which the product belongs.
 
