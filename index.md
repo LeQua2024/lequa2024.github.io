@@ -37,6 +37,8 @@ LeQua 2024 is supported
 * by the FAIR and QuaDaSh projects, funded by the European Commission under the [NextGenerationEU](https://next-generation-eu.europa.eu/index_en) funding scheme.
 The organizers' opinions do not necessarily reflect those of the European Commission.
 
-<img src="SoBigData.png" alt="drawing" style="height: 5vw"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="AI4Media.png" alt="drawing" style="height: 5vw"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br /> <br /> 
+
+<img src="SoBigData.png" alt="drawing" style="height: 5vw"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="AI4Media.png" alt="drawing" style="height: 5vw"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="nextgeneu_en-1024x306.jpg" alt="drawing" style="height: 5vw"/>
