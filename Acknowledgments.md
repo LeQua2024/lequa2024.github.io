@@ -15,5 +15,5 @@ The organizers' opinions do not necessarily reflect those of the European Commis
 
 ![AI4Media](AI4Media.png)
 
-![NextGenerationEU](NextGenEU.png)
+![NextGenerationEU](nextgeneu_en-1024x306.jpg)
 
