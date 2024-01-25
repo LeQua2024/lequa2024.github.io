@@ -8,7 +8,7 @@ The aim of LeQua 2024 (the 2nd edition of the “Learning to Quantify” data ch
 
 Register your team for participating in LeQua 2024 by filling [this form](https://forms.gle/1U8g9fP5qzzpF5TJ6). You may decide to participate in all four LeQua 2024 tasks or only in the ones you are most interested in. Please fill one form per team. There may be more than one team per institution, but a person can be a member of one LeQua 2024 team only.
   
-<br /> <br /> 
+<br /> 
 
 ## News!
 <!-- BEGIN COMMENTED BLOCK
@@ -27,7 +27,7 @@ END COMMENTED BLOCK -->
 Follow us on Twitter: [@LeQua2024](https://twitter.com/LeQua2024)
 END COMMENTED BLOCK -->
 
-<br /> <br /> 
+<br /> 
 
 ## Acknowledgments
 
