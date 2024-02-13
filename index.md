@@ -41,4 +41,5 @@ The organizers' opinions do not necessarily reflect those of the European Commis
 
 <img src="SoBigData.png" alt="drawing" style="height: 5vw"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="AI4Media.png" alt="drawing" style="height: 5vw"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="nextgeneu_en-1024x306.jpg" alt="drawing" style="height: 5vw"/>
+<img src="nextgeneu_en-1024x306.jpg" alt="drawing" style="height: 5vw"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="LogoQuaDaSh.png" alt="drawing" style="height: 5vw"/>
