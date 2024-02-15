@@ -9,10 +9,10 @@ title: Timeline
 |  **When** | **What** |
 | ---:|:---|
 | <img width=150/> | <img width=800/> | 
-| 25 Jan 2024	| Call for Participation distributed |
-| 25 Jan 2024	| Lab registration is open! |
-| 15 Feb 2024	| Release of training sets + development samples + dummy submission + format checker + evaluation script |
-| 15 Feb 2024	| Discussion forum (GoogleGroups) opens among participant teams and organizers |
+| ~~25 Jan 2024~~	| Call for Participation distributed |
+| ~~25 Jan 2024~~	| [Lab registration is open!](https://forms.gle/1U8g9fP5qzzpF5TJ6) |
+| ~~15 Feb 2024~~	| Release of [training sets + development samples + dummy submission](https://doi.org/10.5281/zenodo.10654474) + [format checker + evaluation script](https://github.com/HLT-ISTI/LeQua2024_scripts) |
+| ~~15 Feb 2024~~| Discussion forum ([GoogleGroups](https://groups.google.com/g/lequa2024)) opens among participant teams and organizers |
 |  1 May 2024	| Release of unlabelled test samples |
 | 31 May 2024	| Lab registration closes |
 | 31 May 2024	| Hard deadline for submitting participant teams’ runs |
