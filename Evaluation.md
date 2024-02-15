@@ -15,4 +15,4 @@ title: Evaluation
 - **Tools and baselines**
   - A number of baseline (and advanced) methods for learning to quantify are implemented in the [QuaPy](https://github.com/HLT-ISTI/QuaPy/tree/lequa2024) Python-based, open-source library. For participating in LeQua 2024 you are welcome to use [QuaPy](https://github.com/HLT-ISTI/QuaPy/tree/lequa2024) and its tools in any way you might deem suitable. Check paper [Alejandro Moreo, Andrea Esuli, and Fabrizio Sebastiani. QuaPy: A Python-based framework for quantification. Proceedings of the 30th ACM International Conference on Knowledge Management (CIKM 2021), Gold Coast, AU, pp. 4534–4543.](https://dl.acm.org/doi/10.1145/3459637.3482015) to learn more about QuaPy.
 - **Required format for submissions**
-  - A [format checker](https://github.com/HLT-ISTI/LeQua2024_scripts) and a [dummy submission](https://doi.org/10.5281/zenodo.5734464) will be made available to participant teams by Feb 15 2024.
+  - A [format checker](https://github.com/HLT-ISTI/LeQua2024_scripts) and a [dummy submission](https://doi.org/10.5281/zenodo.10654474) are available.
