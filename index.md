@@ -17,10 +17,10 @@ Register your team for participating in LeQua 2024 by filling [this form](https:
 * 28 May 2022: The submission period for participants' papers is now over; thanks to the teams who have submitted their papers! 
 * 11 May 2022: The submission period is now over; thanks to the teams who have submitted their runs! The test set (with labels) **is now public** and accessible via [Zenodo](https://doi.org/10.5281/zenodo.5734464)! 
 * 22 April 2022: The test set (with labels omitted) **is now public** and accessible via [Zenodo](https://doi.org/10.5281/zenodo.5734464)! You can now submit your results via [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/4134)!
-* 1st Dec 2021: The dataset (training and development sets) **is now public** and accessible via [Zenodo](https://www.doi.org/10.5281/zenodo.5734465)
-* 1st Dec 2021: The [format checker](https://github.com/HLT-ISTI/LeQua2022_scripts/blob/main/format_checker.py) and [evaluation script](https://github.com/HLT-ISTI/LeQua2022_scripts/blob/main/evaluate.py), along with other [useful functions and further guidelines](https://github.com/HLT-ISTI/LeQua2022_scripts), are public and accessible via [GitHub](https://github.com/HLT-ISTI/LeQua2022_scripts).
-* 1st Dec 2021: The [Google discussion group](https://groups.google.com/g/lequa2022) has been created! If you plan to participate (and we very much hope so), visit [https://groups.google.com/g/lequa2022](https://groups.google.com/g/lequa2022) and request to become a member now!
 END COMMENTED BLOCK -->
+* 15th Feb 2024: The dataset (training and development sets) **is now public** and accessible via [Zenodo](https://doi.org/10.5281/zenodo.10654474)
+* 15th Feb 2024: The [format checker](https://github.com/HLT-ISTI/LeQua2024_scripts/blob/main/format_checker.py) and [evaluation script](https://github.com/HLT-ISTI/LeQua2024_scripts/blob/main/evaluate.py), along with other [useful functions and further guidelines](https://github.com/HLT-ISTI/LeQua2024_scripts), are public and accessible via [GitHub](https://github.com/HLT-ISTI/LeQua2024_scripts).
+* 15th Feb 2024: The [Google discussion group](https://groups.google.com/g/lequa2024) has been created! If you plan to participate (and we very much hope so), visit [https://groups.google.com/g/lequa2024](https://groups.google.com/g/lequa2024) and request to become a member now!
 * 18 Jan 2024: [Registrations](https://forms.gle/1U8g9fP5qzzpF5TJ6) are open! (until 31 May 2024)
 
 <!-- BEGIN COMMENTED BLOCK
