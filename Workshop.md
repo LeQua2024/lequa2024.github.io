@@ -6,7 +6,7 @@ title: Workshop
 
 ## LeQua 2024 session at the [LQ 2024 workshop](https://lq-2024.github.io/)
 
-The [LQ 2024 workshop](https://lq-2024.github.io/) will host a session on LeQua 2024, in which the results of the data challenge will be presented. The workshop will take place eithr on 9 or on 13 September 2024 (the precise date is yet to be defined), and will be in hybrid format. The participation in the workshop will be open to all members of all participating teams, and to the scientific community at large. Check out the [LQ 2024 website](https://lq-2024.github.io/)  for details!
+The [LQ 2024 workshop](https://lq-2024.github.io/) will host a session on LeQua 2024, in which the results of the data challenge will be presented. The workshop will take place either on 9 or on 13 September 2024 (the precise date is yet to be defined), and will be in hybrid format. The participation in the workshop will be open to all members of all participating teams, and to the scientific community at large. Check out the [LQ 2024 website](https://lq-2024.github.io/)  for details!
 
 <!-- BEGIN COMMENTED BLOCK
 Wednesday, September 7	
