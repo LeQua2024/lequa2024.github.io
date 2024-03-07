@@ -21,6 +21,6 @@ title: Timeline
 | 10 Jul 2024	| A/R notification for the above papers |
 | 25 Aug 2024	| Camera-ready copies of accepted papers delivered by authors |
 |  1 Sep 2024	| LeQua 2024 Working Notes preview for checking by authors and lab organizers |
-|    Sep 2024 | LeQua 2024 Workshop (hybrid or fully online) (exact date TBA) |
+|  9-13 Sep 2024 | LeQua 2024 session at the [LQ 2024 Workshop](https://lq-2024.github.io/) (exact day TBA) |
 
 All dates are 23:59 AoE
