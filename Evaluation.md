@@ -9,7 +9,7 @@ title: Evaluation
 - **Evaluation measures / scorer**
   - The performance of the predictors will be evaluated
     - (for Tasks T1, T2, T4): in terms of the RAE (relative absolute error) and AE (absolute error) measures; only RAE will be used for the final ranking, though;
-    - (for Task T3): in terms of NMD (Normalized Match Distance), a special case of the Earth Mover's Distance, and RNOD (Root Normalized Order-Aware Divergence); only NMD will be used for the final ranking, though.
+    - (for Task T3): in terms of NMD (Normalized Match Distance), a special case of the Earth Mover's Distance. We consider two variants of NMD: the "macro-NMD", and the mean NMD (MNMD); only macro-NMD will be used for the final ranking, though.
     The evaluation script that will be used to evaluate the participants' submissions will be made available [here](https://github.com/HLT-ISTI/LeQua2024_scripts/blob/main/evaluate.py) by Feb 15 2024. Check Chapter 3 of this [(open-access) book](https://link.springer.com/book/10.1007/978-3-031-20467-8) for a thorough discussion of RAE, AE, NMD, RNOD, and their suitability to evaluating quantification systems.
   - The test set will consist of a number of test samples (i.e., sets of documents), some of them characterized by prior probability shift (T1, T2, T3) or covariate shift (T4); this is done in order to test the robustness of the quantifier to predict class prevalence values under conditions different from those it has been trained on.
 - **Tools and baselines**
