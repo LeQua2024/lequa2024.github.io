@@ -18,6 +18,8 @@ Register your team for participating in LeQua 2024 by filling [this form](https:
 * 11 May 2022: The submission period is now over; thanks to the teams who have submitted their runs! The test set (with labels) **is now public** and accessible via [Zenodo](https://doi.org/10.5281/zenodo.5734464)! 
 * 22 April 2022: The test set (with labels omitted) **is now public** and accessible via [Zenodo](https://doi.org/10.5281/zenodo.5734464)! You can now submit your results via [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/4134)!
 END COMMENTED BLOCK -->
+* 1st May 2024: The platform for submissions is accessible via [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/18965)
+* 1st May 2024: The test samples are accessible via [Zenodo](https://doi.org/10.5281/zenodo.10654474)
 * 15th Feb 2024: The dataset (training and development sets) **is now public** and accessible via [Zenodo](https://doi.org/10.5281/zenodo.10654474)
 * 15th Feb 2024: The [format checker](https://github.com/HLT-ISTI/LeQua2024_scripts/blob/main/format_checker.py) and [evaluation script](https://github.com/HLT-ISTI/LeQua2024_scripts/blob/main/evaluate.py), along with other [useful functions and further guidelines](https://github.com/HLT-ISTI/LeQua2024_scripts), are public and accessible via [GitHub](https://github.com/HLT-ISTI/LeQua2024_scripts).
 * 15th Feb 2024: The [Google discussion group](https://groups.google.com/g/lequa2024) has been created! If you plan to participate (and we very much hope so), visit [https://groups.google.com/g/lequa2024](https://groups.google.com/g/lequa2024) and request to become a member now!
