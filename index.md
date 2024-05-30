@@ -18,7 +18,8 @@ Register your team for participating in LeQua 2024 by filling [this form](https:
 * 11 May 2022: The submission period is now over; thanks to the teams who have submitted their runs! The test set (with labels) **is now public** and accessible via [Zenodo](https://doi.org/10.5281/zenodo.5734464)! 
 * 22 April 2022: The test set (with labels omitted) **is now public** and accessible via [Zenodo](https://doi.org/10.5281/zenodo.5734464)! You can now submit your results via [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/4134)!
 END COMMENTED BLOCK -->
-* Submission deadline extended to June 15! 
+* Submission deadline extended to June 15!
+* New unofficial installation of [Codalab for validation purposes](https://codalab.lisn.upsaclay.fr/competitions/19100), the participation is not mandatory.
 * 1st May 2024: The platform for submissions is accessible via [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/18965)
 * 1st May 2024: The test samples are accessible via [Zenodo](https://doi.org/10.5281/zenodo.10654474)
 * 15th Feb 2024: The dataset (training and development sets) **is now public** and accessible via [Zenodo](https://doi.org/10.5281/zenodo.10654474)
