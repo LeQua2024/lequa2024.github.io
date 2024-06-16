@@ -16,7 +16,7 @@ title: Timeline
 | ~~1 May 2024~~| Release of unlabelled [test samples](https://doi.org/10.5281/zenodo.10654474) |
 | ~~31 May~~ 15 Jun 2024	| Lab registration closes (deadline extended!)|
 | ~~31 May~~ 15 Jun 2024	| Hard deadline for submitting participant teams’ runs (deadline extended!)|
-|  16 Jun 2024	| Release of evaluation results to all participant teams |
+|  ~~16 Jun 2024~~	| Release of evaluation results to all participant teams |
 | 30 Jun 2024	| Participant teams submit papers for LeQua 2024 Working Notes (optional) |
 | 15 Jul 2024	| A/R notification for the above papers |
 | 25 Aug 2024	| Camera-ready copies of accepted papers delivered by authors |
