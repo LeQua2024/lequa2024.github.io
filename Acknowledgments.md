@@ -13,6 +13,7 @@ The organizers' opinions do not necessarily reflect those of the European Commis
 <br /> <br /> 
 
 ![SoBigData](SoBigData.png)
-![SoBigData](AI4Media.png)
+![AI4Media](AI4Media.png)
+![QuaDaSh](LogoQuaDaSh.png)
 ![AI4Media](nextgeneu_en-1024x306.jpg)
 
